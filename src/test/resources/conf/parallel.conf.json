@@ -1,7 +1,7 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "georgeoneid_twuFvO",
+  "key": "ydbo6tQ5Dq7f9G9wBEc9",
 
   "capabilities": {
     "bstack:options": {
@@ -14,7 +14,11 @@
 
   "environments": {
     "env1": {
-        "browserName": "chrome"
+       "browserName": "Chrome",
+      "browserVersion": "105.0",
+      "os": "Windows",
+      "osVersion": "10"
+
     },
     "env2": {
         "browserName": "firefox"
